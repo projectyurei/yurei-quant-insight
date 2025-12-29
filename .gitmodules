@@ -1,0 +1,3 @@
+[submodule "yurei-geyser-client"]
+	path = yurei-geyser-client
+	url = https://github.com/projectyurei/yurei-geyser-client.git
